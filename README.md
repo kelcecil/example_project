@@ -1,5 +1,7 @@
 # ExampleProject
 
+# No one should use this code under any circumstances. No warranty is given. Ever.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
@@ -17,3 +19,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+  * UCWV: https://ucwv.edu
